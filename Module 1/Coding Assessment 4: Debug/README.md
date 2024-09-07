@@ -1,0 +1,3 @@
+Task 1: Open the file code1-4.html and in the comment section enter your name (First + Last) and the date (MM/DD/YYYY) into the Author: and Date: fields of the file.
+
+Task 2: Fix all 10 errors you discover and then resubmit the saved document to validation until it passes with no warnings or errors. Test the page in the validator at the W3C website (validator.w3.org) or with another validator of your choice. Make a note of the errors reported as a guide to debugging the page. Not every error will be initially reported.
